@@ -3,7 +3,7 @@ Collection of Web Scraping tools and projects
 
 # Contents
 
-## scraper.v1
+## scraper_v1
 > Written in **Python** using __BeautifulSoup__ and *Selenium*
 > 
 > Given a list of colleges, can scrape info from their websites regarding venue availabilities
